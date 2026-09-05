@@ -113,6 +113,9 @@ A list of design systems and design resources that gov departments have created.
 ## India
 - Central government: https://www.ux4g.gov.in/
 
+## Italy
+- Central government: https://designers.italia.it/design-system/
+
 ## New Zealand
 - Design system for NZ public sector websites: https://design-system-alpha.digital.govt.nz/
 
